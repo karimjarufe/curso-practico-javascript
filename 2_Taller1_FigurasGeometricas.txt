@@ -1,0 +1,47 @@
+Taller 1: "Figuras geométricas"
+    1. Análisis: Como calcular figuras geométricas
+        Cuadrado
+            -Perimetro de un cuadrado: es la suma de sus lados (L*4)
+            -Área del cuadrado       : es la multiplicación de dos lados (L*L)
+
+        Triangulo
+            -Perimetro de un triangulo: es la suma de sus lados (L + L + L)
+            -Área de un triangulo     : es la (base * altura) / 2
+
+        Circulo
+            -Perimetro(circunferencia) de un circulo: diametro * PI
+            -Área de un circulo                     : radio^2 * PI
+
+
+    2. Como integrar JavaScript en HTML
+        -Para integrar JS en HTML debemos crear una etiqueta <script> al final 
+        del <body> y colocamos el atributo src="<direccionDelJS>".
+
+
+    3. Calculando figuras geométricas en JavaScript
+        -Como agrupar pedasos de codigos en la consola -> console.group("<algo>") console.grupoEnd();
+
+
+    4. Encapsulando codigo en funciones
+        -
+
+
+    5. Interactuando con javaScript desde HTML
+        -<variable> = document.getElementById("<idDeUnaEtiquetaHTML>"); -> Esto nos permite traer 
+                                                                           una etiqueta completa de 
+                                                                           nuestro HTML a JS. Para 
+                                                                           sacarle su valor, usaremos 
+                                                                           <variable>.value
+                                                              
+
+
+    6. Reto: matematicas con JavaScript
+        Durante este taller aprendimos a calcular el área y perímetro de un triángulo conociendo la longitud de sus 3 lados y también su altura.
+
+        En este ejercicio debes crear una función para calcular la altura de un triángulo isósceles.
+
+            -La función debe recibir, como parámetros, la longitud de los 3 lados del triángulo.
+            -La función debe validar que la longitud de los 3 lados del triángulo corresponden a un triángulo isósceles.
+            -La función debe retornar la altura del triángulo.
+        
+        Pista: la función Math.sqrt de JavaScript puede ayudarte a calcular raíces cuadradas.
