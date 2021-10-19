@@ -1,0 +1,38 @@
+Análisis salarial
+    1. Análisis: Como analizar salarios
+        -Se usará todo lo aprendido anmteriormente
+
+
+    2. Calculando la mediana de salarios
+        -
+
+    
+    3. Calculando el top 10% del salarios
+        -array.splace() -> remueve elementos de un array y, los devuelve, recibiendo 
+                           dos argumentos (<posicionInicial>, <posicionFinal>).
+
+
+    4. Reto: simulación de estudio de salarios
+
+        En este módulo pusimos en práctica todo lo que aprendimos en los talleres pasados para 
+        calcular la mediana de salarios de tu país (aunque por ahora son solo datos ficticios).
+
+        Para completar el reto de este último taller solo debes dejar volar tu imaginación 
+        y usar todas las herramientas que aprendiste para expandir tu análisis salarial.
+
+        ¿Cómo? Como quieras
+        Puedes calcular la mediana de ingresos no fijos, capacidad de ahorro, capacidad de 
+        endeudamiento, recolección de impuestos, diferencia salarial, relación entre 
+        formalidad/informalidad y pobreza/riqueza…
+
+        El reto es de tema libre. Escoge la pregunta que prefieras, incluso mejor si has vivido 
+        una situación parecida alguna vez, resuélvela y muéstranos tu solución en los comentarios.
+
+        Para lograrlo solo debes seguir los siguientes pasos:
+
+            _ Plantea muy detalladamente el problema/análisis/cálculo/hipótesis que quieres resolver.
+            _ Encuentra las fórmulas necesarias para resolver el dilema que seleccionaste.
+            _ Define las variables y funciones para resolver tus fórmulas.
+            _ Presenta los resultados de tu informe en una página web dinámica usando HTML, CSS y JavaScript.
+            _ Organiza y documenta tu código para que sea más fácil de leer y entender.
+            _ Publícalo en tu repositorio de GitHub y muéstranos el link en la sección de comentarios.

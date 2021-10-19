@@ -1,0 +1,19 @@
+Como calcular porcentajes y descuentos 
+    1. Análisis: cómo calcular porcentajes y descuentos
+        -Porcentaje y descuento
+            -Monto a pagar: [P * (100 - D%)] / 100
+            -Monto a descontar: (P * D%) / 100
+
+
+    2. Crea una página web para calcular descuentos
+        -
+
+
+    3. Escribiendo HTML desde JavaScript
+        -
+
+
+    4. Reto: funciones más inteligentes
+        Nuestros clientes están muy felices de poder calcular el precio final 
+        de sus productos después del descuento, pero la tienda tiene una nueva 
+        solicitud para nosotros: implementar descuentos con cupones.

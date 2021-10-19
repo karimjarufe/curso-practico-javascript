@@ -1,0 +1,3 @@
+Ayudas
+    * Arrays
+        -MAP, FILTER y REDUCE => https://www.youtube.com/watch?v=tP8JiVUiyDo&t=230s

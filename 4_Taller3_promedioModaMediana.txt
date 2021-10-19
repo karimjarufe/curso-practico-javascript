@@ -1,0 +1,35 @@
+Taller 3: "Promedio, moda y mediana"
+    1. Que es promedio, moda y mediana
+        -Promedio (media aritmetica): (<venta1> + <venta2> + ... / <totalDeVentas>)
+        -Moda                       : elemento que más se repite
+        -Mediana                    : encontrar, entre los valores ordenados, el del medio
+                                      (si tenemos items pares, se dividirá por 2 los dos 
+                                      valores de al medio).
+
+
+    2. Calculando el promedio en JS
+        -
+
+
+    3. Calculando la mediana en JS 
+        -arr.sort()
+        -pareInt()
+
+
+    4. Calculando la moda en JS
+        -Object.entries(list) -> transforma un objeto a un array
+        -lista1.map(function(elemento){}) -> recorre un array y retorna cada elemento
+
+        
+    5. Reto: calcula otros tipos de promedios
+        En las clases prácticas de este taller aprendimos a calcular el promedio 
+        (media aritmética), la mediana y la moda con JavaScript. En este reto debes 
+        encontrar la fórmula de algún otro tipo de promedio (tipos de promedio), 
+        trabajar con alguno de sus casos de uso útiles y traducirlo a código 
+        JavaScript.
+
+            Responde las siguientes preguntas en los comentarios:
+
+            ¿Cuál tipo de promedio elegiste para trabajar?
+            ¿Qué casos de uso tiene tu tipo de promedio?
+            ¿Cómo traduces su fórmula a código JavaScript?
